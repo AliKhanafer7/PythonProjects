@@ -1,0 +1,138 @@
+
+>>> primary_school_quiz(0,2)
+Question 1 :
+What is the result of 0-10?-10
+Question 2 :
+What is the result of 2-4?-2
+2
+>>> primary_school_quiz(1,3)
+Question 1 :
+What is the result of2^0?1
+Question 2 :
+What is the result of0^4?1000
+Question 3 :
+What is the result of7^3?1000
+1
+>>> high_school_eqsolver(1,3,1)
+The quadratic equation 1*x^2 + 3*x + 1=0
+has the following real roots:
+-0.3819660112501051 and -2.618033988749895
+>>> 
+>>> high_school_eqsolver(3,2,15)
+The quadratic equation 3*x^2 + 2*x + 15=0
+has the following complex roots:
+-0.3333333333333333 +  i 2.2110831935702664
+and
+-0.3333333333333333 -  i 2.2110831935702664
+>>> 
+>>> high_school_eqsolver(3,2,-15)
+The quadratic equation 3*x^2 + 2*x + -15=0
+has the following real roots:
+1.9274433277084226 and -2.5941099943750894
+>>> 
+>>> high_school_eqsolver(1,2,1)
+The quadratic equation 1*x^2 + 2*x + 1 =0
+has only one solution, a real roots:
+-1.0
+>>> 
+>>> 
+>>> 
+>>> high_school_eqsolver(0,2,4)
+The linear equation 2*x + 4
+has the following root/solution: -2.0
+>>> 
+>>> 
+>>> high_school_eqsolver(0,0,0)
+The quadratic equation 0*x + 0=0
+is satisfied for all numbers of x
+>>> 
+>>> high_school_eqsolver(0,0,10)
+The quadratic equation 0*x+10 =0
+is satisfied for no number x
+>>> 
+***************************************************************
+*                                                             *
+*   __Welcome to my math quiz-generator / equation-solver__   *
+*                                                             *
+***************************************************************
+What is your name? Ali
+Hi Ali. Are you in? Enter 
+1 for primary school
+2 for high school or
+3 for none of the above?
+1
+*************************************************************************
+*                                                                       *
+*   __Ali, welcome to my quiz-generator for primary school students__   *
+*                                                                       *
+*************************************************************************
+Ali what would you like to practice? Enter
+0 for substraction
+1 for exponentiation
+0
+How many practice questions would you like to do?4
+Ali here are your 4 questions:
+Question 1 :
+What is the result of 10-10?0
+Question 2 :
+What is the result of 9-6?3
+Question 3 :
+What is the result of 8-6?2
+Question 4 :
+What is the result of 9-10?100
+You did well Ali, but I know you can do better.
+Good bye Ali!
+>>> 
+>>>
+***************************************************************
+*                                                             *
+*   __Welcome to my math quiz-generator / equation-solver__   *
+*                                                             *
+***************************************************************
+What is your name? Ali
+Hi Ali. Are you in? Enter 
+1 for primary school
+2 for high school or
+3 for none of the above?
+2
+******************************************************************
+*                                                                *
+*   __quadratic equation, a*x^2 + b*x + c= 0, solver for Ali__   *
+*                                                                *
+******************************************************************
+Ali, would you like a quadratic equation solved?     YeS
+Good choice!
+Enter a number for coefficient a: 1
+Enter a number for coefficient b: 2
+Enter a number for coefficient c: 3
+The quadratic equation 1.0*x^2 + 2.0*x + 3.0=0
+has the following complex roots:
+-1.0 +  i 1.4142135623730951
+and
+-1.0 -  i 1.4142135623730951
+Ali, would you like a quadratic equation solved?       yeS
+Good choice!
+Enter a number for coefficient a: -1
+Enter a number for coefficient b: 10
+Enter a number for coefficient c: 36
+The quadratic equation -1.0*x^2 + 10.0*x + 36.0=0
+has the following real roots:
+-2.810249675906654 and 12.810249675906654
+Ali, would you like a quadratic equation solved?    no
+Good bye Ali!
+>>> 
+ RESTART: /Users/alikhanafer/Documents/all python programs-fall term/Python Assignements/a2_part_1_300010614.py 
+***************************************************************
+*                                                             *
+*   __Welcome to my math quiz-generator / equation-solver__   *
+*                                                             *
+***************************************************************
+What is your name? Ali
+Hi Ali. Are you in? Enter 
+1 for primary school
+2 for high school or
+3 for none of the above?
+3
+Ali you are not a target audience for this software.
+Good bye Ali!
+>>> 
